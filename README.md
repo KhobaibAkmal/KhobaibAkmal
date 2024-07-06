@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KhobaibAkmal
-- 👀 I’m interested in Data Representation
+- 👀 I’m interested in Data Analysis & Representation
 - 🌱 I’m currently learning Python3
 - 📫 How to reach me : khobaibakmal@gmail.com
 
