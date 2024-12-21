@@ -1,4 +1,3 @@
-```# Khobaib Akmal```
 
 🎓 **Civil Engg Major** @ DTU, class of 2026, rocking a 9.25 CGPA  
 📊 **Data Enthusiast**  
@@ -9,7 +8,3 @@
 🔗 [LinkedIn](https://www.linkedin.com/in/khobaibakmal/) | [Email](mailto:akmalkhobaib@gmail.com)  
 ```
 
-<!---
-KhobaibAkmal/KhobaibAkmal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
